@@ -1,0 +1,6 @@
+[Banco de Dados SQLite em disco: /database/auditoria.db]
+
+Este arquivo codifica o banco de dados relacional local do chassi configurado.
+Tabelas simuladas e gerenciamento integrado ativo.
+Status: INICIALIZADO
+Propósito: Banco de dados SQLite com logs de auditoria (gerado automaticamente no primeiro uso)
